@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yZqtsnZABTQ2NGu7pm4AwE52uTrIOnf3VNR/Ek1SRvgvDj+wgADcDAprcqNPTZw6eVOzHKqsK4VfcZ98NCwbtw==",
+  "success": true,
+  "projectFilePath": "C:\\Project\\DEVELOPMENT_VM\\C#\\WorkingWithData\\DataProcessor\\DataProcessor\\DataProcessor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\i_m_a_n\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.1\\microsoft.extensions.caching.abstractions.3.1.1.nupkg.sha512",
+    "C:\\Users\\i_m_a_n\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.1\\microsoft.extensions.caching.memory.3.1.1.nupkg.sha512",
+    "C:\\Users\\i_m_a_n\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.1\\microsoft.extensions.dependencyinjection.abstractions.3.1.1.nupkg.sha512",
+    "C:\\Users\\i_m_a_n\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.1\\microsoft.extensions.logging.abstractions.3.1.1.nupkg.sha512",
+    "C:\\Users\\i_m_a_n\\.nuget\\packages\\microsoft.extensions.options\\3.1.1\\microsoft.extensions.options.3.1.1.nupkg.sha512",
+    "C:\\Users\\i_m_a_n\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.1\\microsoft.extensions.primitives.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

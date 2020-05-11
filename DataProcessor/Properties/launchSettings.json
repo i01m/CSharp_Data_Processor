@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DataProcessor": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Project\\DEVELOPMENT_VM\\C#\\WorkingWithData\\psdata\\in"
+    }
+  }
+}
